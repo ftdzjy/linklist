@@ -1,0 +1,2 @@
+# linklist
+just for training
